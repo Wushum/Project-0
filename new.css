@@ -1,0 +1,17 @@
+body{
+	background-color:000000;
+
+
+}
+
+.pic-right{
+		position: absolute;
+		top: 120px;
+		left: 350px;
+
+}
+.style{
+			float: left;
+			/* width: 100px; */
+
+}
