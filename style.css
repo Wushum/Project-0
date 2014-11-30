@@ -1,0 +1,29 @@
+
+body {
+	background-color:000000;
+	font-size: 12px;	   
+      margin-left:40px;
+	 	}
+
+.clearfix {
+	clear: both;
+}
+.section .headings {
+	float: left;
+	width: 100px;
+}
+.section .info {
+	float: left;
+	border-left: 3px solid #CCCCCC;
+}
+
+.container {
+  width: 400px;
+  position: relative;
+}
+
+.picture-right {
+	position: absolute;
+	top: 120px;
+	left: 420px;
+}
